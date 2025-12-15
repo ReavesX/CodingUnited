@@ -14,9 +14,9 @@ If you want to collaborate on innovative projects or have a challenge in mind, r
 ### **[Brighterspace](https://github.com/ReavesX/brighterspace)**  
 Chrome Extension (MV3) for offline-first task/study group management with real-time CRDT sync and rubric-aware automation.  
 
-- Implemented **conflict-free offline-first sync** using Yjs (CRDTs)  
-- Enabled **real-time collaboration** with WebSockets for shared study boards  
-- Integrated **rubric-aware automation** to prefill assignment checklists  
+- Implementing **conflict-free offline-first sync** using Yjs (CRDTs)  
+- Enabling **real-time collaboration** with WebSockets for shared study boards  
+- Integrating **rubric-aware automation** to prefill assignment checklists  
 
 <sub>Tech:</sub>  
 <p align="left">
